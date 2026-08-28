@@ -1,0 +1,5 @@
+ydata-profiling
+scikit-learn
+pandas
+joblib
+streamlit
